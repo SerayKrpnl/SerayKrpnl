@@ -8,7 +8,6 @@
 
 <h3 align="center">About Me</h3>
 
-- 🌐 I'm currently working on **[Hotel Register Page]**
 - 📚 I'm always learning **[ Web Development]**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/seray-ozpirildak/)
 - ☁️ Fun Fact: "I love turning ideas into reality through code!"
@@ -41,6 +40,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerayKrpnl&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
 
 ---
 

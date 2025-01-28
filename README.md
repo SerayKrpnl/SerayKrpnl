@@ -36,7 +36,6 @@
 ---
 ### Languages and Tools:
 
-### Languages and Tools:
 
 <div align="center">
   <table>
@@ -97,18 +96,18 @@
         </a>
         <br>Node.js
       </td>
-      <td align="center" width="80">
+<!--       <td align="center" width="80">
         <a href="https://www.postgresql.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
         </a>
         <br>PostgreSQL
-      </td>
-      <td align="center" width="80">
+      </td> -->
+<!--       <td align="center" width="80">
         <a href="https://www.python.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
         </a>
         <br>Python
-      </td>
+      </td> -->
       <td align="center" width="80">
         <a href="https://reactjs.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
@@ -123,12 +122,12 @@
         </a>
         <br>Sass
       </td>
-      <td align="center" width="80">
+<!--       <td align="center" width="80">
         <a href="https://www.sketch.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40" />
         </a>
         <br>Sketch
-      </td>
+      </td> -->
       <td align="center" width="80">
         <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />

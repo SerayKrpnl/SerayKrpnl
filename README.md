@@ -36,55 +36,113 @@
 ---
 ### Languages and Tools:
 
-<div class="grid grid-cols-6 gap-4 p-4 bg-gray-800 rounded-lg"">
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" class="w-12 h-12" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" class="w-12 h-12" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" class="w-12 h-12" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" class="w-12 h-12" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" class="w-12 h-12" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" class="w-12 h-12" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" class="w-12 h-12" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" class="w-12 h-12" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" class="w-12 h-12" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="w-12 h-12" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="w-12 h-12" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" class="w-12 h-12" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" class="w-12 h-12" />
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" class="w-12 h-12" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" class="w-12 h-12" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" class="w-12 h-12" />
-  </a>
+### Languages and Tools:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <a href="https://getbootstrap.com" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+        </a>
+        <br>Bootstrap
+      </td>
+      <td align="center" width="80">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+        </a>
+        <br>CSS3
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.djangoproject.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+        </a>
+        <br>Django
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.figma.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+        </a>
+        <br>Figma
+      </td>
+      <td align="center" width="80">
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="80">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+        </a>
+        <br>HTML5
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+        </a>
+        <br>Linux
+      </td>
+      <td align="center" width="80">
+        <a href="https://nodejs.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.postgresql.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="80">
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+        </a>
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <a href="https://sass-lang.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+        </a>
+        <br>Sass
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.sketch.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40" />
+        </a>
+        <br>Sketch
+      </td>
+      <td align="center" width="80">
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="80">
+        <a href="https://vuejs.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
+        </a>
+        <br>Vue.js
+      </td>
+    </tr>
+  </table>
 </div>
 
 

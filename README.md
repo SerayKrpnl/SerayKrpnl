@@ -35,8 +35,8 @@
 
 ---
 ### Languages and Tools:
-<p align="center">
-<div class="flex flex-wrap items-center gap-4">
+
+<div class="grid grid-cols-6 gap-4 p-4 bg-gray-800 rounded-lg"">
   <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" class="w-12 h-12" />
   </a>
@@ -86,7 +86,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" class="w-12 h-12" />
   </a>
 </div>
-</p>
 
 
 

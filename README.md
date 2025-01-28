@@ -130,7 +130,7 @@
       </td> -->
       <td align="center" width="80">
         <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" />
         </a>
         <br>Tailwind CSS
       </td>
